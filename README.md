@@ -1,22 +1,33 @@
-  <div align=center>
- <br>
-    📚 STACKS  📚 <br> <br>
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-        <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><br>
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/notion-FCC624?style=for-the-badge&logo=notion&logoColor=black"><br><br>
-👊language👊 <br> <br>
-	  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmm4707&layout=compact&theme=onedark) <br><br>
-🌟stats🌟 <br> <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmm4707&show_icons=true&theme=ayu-mirage)
+<div align=center>
 
-	
-  </div>
+📚 STACKS  📚 <br> <br>
+🚀 BACK-END 🚀 <br> 
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <br>
+🔥 FRONT-END 🔥 <br> 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <br>
+💾 DATABASE 💾 <br> 
+<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <br> <br> 
+
+🛠️Toos🛠️ <br> <br>
+<img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+<img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <br>
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/notion-FCC624?style=for-the-badge&logo=notion&logoColor=black">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"><br><br>
+
+👊language👊 <br> <br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmm4707&layout=compact&theme=onedark) <br><br>
+
+🌟stats🌟 <br> <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmm4707&show_icons=true&theme=ayu-mirage) <br><br>
+
+
+</div>
+
 <!--
 **mmm4707/mmm4707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
